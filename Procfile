@@ -1,1 +1,1 @@
-web: pip install requirements.txt
+web: pip install hoshino
